@@ -8,4 +8,6 @@ This Java program reads a text file and does the following:
 
 3. Pull the last sentence on the file that contains the most used word.
 
-Your output can be written directly to the console window.
+Your output can be written directly to the console window (shown in the screenshot below):
+
+![console](console.PNG)
