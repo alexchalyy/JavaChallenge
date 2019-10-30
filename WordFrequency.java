@@ -55,6 +55,7 @@ public class WordFrequency {
                 }
                 count = 0;
             }
+            System.out.println("These are the top 10 most used words in the text file with their appropriate counts.\n");
             display(n);
             DisplaySentence(words);
         } catch (Exception e) {
