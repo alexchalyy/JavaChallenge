@@ -29,5 +29,6 @@ class JavaCodingChallenge {
 
         wc.CountWords(); // Give a total word count.
         wf.CalculateFrequency(); // Gives 10 most frequently used words from the given text file.
+                                 // Also this displays the last sentence in the text file with the most frequently used word.
     }
 }
